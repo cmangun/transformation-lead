@@ -16,9 +16,9 @@ export default function CaseStudies() {
   return (
     <div className="min-h-screen bg-gradient-to-b from-[#5B9EA6] to-[#3A6973] py-12 px-4 sm:px-6 lg:px-8">
       <div className="max-w-4xl mx-auto">
-        <h1 className="text-4xl font-bold text-white mb-8 text-center">Case Studies</h1>
+        <h1 className="text-8xl font-bold text-white mb-8 text-center">Case Studies</h1>
         <p className="text-xl text-white mb-12 text-center">
-          Explore a few innovative healthcare transformation projects I've helped 
+         
         </p>
         <div className="grid gap-6 md:grid-cols-2">
           {caseStudies.map((study) => (
