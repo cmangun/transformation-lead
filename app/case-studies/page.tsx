@@ -18,7 +18,7 @@ export default function CaseStudies() {
       <div className="max-w-4xl mx-auto">
         <h1 className="text-4xl font-bold text-white mb-8 text-center">Case Studies</h1>
         <p className="text-xl text-white mb-12 text-center">
-          Explore our innovative healthcare transformation projects
+          Explore a few innovative healthcare transformation projects I've helped 
         </p>
         <div className="grid gap-6 md:grid-cols-2">
           {caseStudies.map((study) => (
